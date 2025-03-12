@@ -16,7 +16,7 @@ The dataset used for this project is sourced from [Kaggle: Lungs Disease Dataset
 - **Real-Time Prediction**: The app uses a trained CNN model to instantly predict the lung disease category.
 - **User-Friendly Interface**: Built with HTML, CSS, and Flask, the interface is easy to navigate and provides immediate feedback.
 
-## Project Structure
+## Project Structures
 
 ```
 LungDiseaseDetectionApp/
